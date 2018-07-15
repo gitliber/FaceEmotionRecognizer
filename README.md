@@ -32,4 +32,4 @@ python3 main.py
 ```
 
 #### Issues & Suggestions
-If any issues and suggestions to me, you can create an [issue](https://github.com/xionghc/Facial-Expression-Recognition/issues/).
+If any issues and suggestions to me, you can create an [issue](https://github.com/gitliber/FaceEmotionRecognizer/issues/).
