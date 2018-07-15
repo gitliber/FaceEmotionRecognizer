@@ -1,4 +1,4 @@
-![amazing](./amazingkelly.jpeg)
+![amazing](./smile.jpeg)
 
 Opensource deep learning framework [TensorFlow](https://www.tensorflow.org) is used in **Facial Expression Recognition(FER)**. 
 The trained models achieved 65% accuracy in fer2013. If you like this, please give me a star.
