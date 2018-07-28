@@ -33,3 +33,7 @@ python3 main.py
 
 #### Issues & Suggestions
 If any issues and suggestions to me, you can create an [issue](https://github.com/gitliber/FaceEmotionRecognizer/issues/).
+
+<br>
+<A Href="https://www.linkedin.com/in/jairribeiro/" target="_blank"><img src="https://raw.githubusercontent.com/gitliber/Basic_self_driving_car/master/LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
+</A>
